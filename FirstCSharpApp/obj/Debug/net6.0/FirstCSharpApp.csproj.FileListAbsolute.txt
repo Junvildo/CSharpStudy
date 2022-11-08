@@ -1,0 +1,15 @@
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/FirstCSharpApp
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/FirstCSharpApp.deps.json
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/FirstCSharpApp.runtimeconfig.json
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/FirstCSharpApp.dll
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/ref/FirstCSharpApp.dll
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/bin/Debug/net6.0/FirstCSharpApp.pdb
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.csproj.AssemblyReference.cache
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.AssemblyInfoInputs.cache
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.AssemblyInfo.cs
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.csproj.CoreCompileInputs.cache
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.dll
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/ref/FirstCSharpApp.dll
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.pdb
+/home/manasuma/git/CSharpStudy/FirstCSharpApp/obj/Debug/net6.0/FirstCSharpApp.genruntimeconfig.cache
